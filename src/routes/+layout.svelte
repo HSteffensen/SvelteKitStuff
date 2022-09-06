@@ -1,3 +1,5 @@
 <script lang="ts">
-	export const ssr = false;
+    export const ssr = false;
 </script>
+
+<slot />
